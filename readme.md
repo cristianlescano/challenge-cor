@@ -43,7 +43,7 @@ cd challenge-cor
 npm i
 ```
 
-## Ejecucion
+## Ejecución
 Se puede probar mediante el comando:
 ```sh
 cd challenge-cor
