@@ -4,7 +4,7 @@
 ### _por Cristian Lescano_
 
 
-Challenge del la empresa Project Cor, desarrollado con TypeScript
+Challenge de la empresa Project Cor, desarrollado con TypeScript
 Descripción del challenge :
 > Dada una lista de palabras, determine si las palabras se pueden encadenar para formar un círculo. 
 Una palabra X se puede colocar delante de otra palabra Y en un círculo si el último carácter de X es el mismo que el primer carácter de Y.
